@@ -30,13 +30,12 @@
 			<type>war</type>
 		</dependency>
 		
-		<!-- forced dependency 
+		<!-- forced dependency -->
 		<dependency>
 			<groupId>info.magnolia</groupId>
 			<artifactId>magnolia-module-imaging</artifactId>
-			<version>3.3.2</version>
+			<version>3.3.1</version>
 		</dependency>
-		-->
 		
 	</dependencies>
 
